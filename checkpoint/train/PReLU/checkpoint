@@ -1,0 +1,2 @@
+model_checkpoint_path: "prelu_model"
+all_model_checkpoint_paths: "prelu_model"
